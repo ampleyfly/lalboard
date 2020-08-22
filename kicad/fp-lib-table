@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name everlight)(type KiCad)(uri ${KIPRJMOD}/lib/everlight.pretty)(options "")(descr ""))
+  (lib (name center)(type KiCad)(uri ${KIPRJMOD}/lib/center.pretty)(options "")(descr ""))
+)

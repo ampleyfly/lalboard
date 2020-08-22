@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name everlight)(type Legacy)(uri ${KIPRJMOD}/lib/everlight.lib)(options "")(descr ""))
+  (lib (name center)(type Legacy)(uri ${KIPRJMOD}/lib/center.lib)(options "")(descr ""))
+)
